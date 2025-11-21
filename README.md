@@ -67,9 +67,13 @@ The full SQL script is located in:
 The following visualizations were created in Tableau and exported as static images:
 
 Churn Rate (KPI)
+
 Churn by Subscription Type
+
 Churn by Device Registered
+
 Churn by Engagement Level
+
 Churn by Payment Method
 
 **🔎 Key Findings**
